@@ -67,18 +67,12 @@ The table below summarizes the performance of each model based on weighted metri
 
 ## Authors
 
-*Aymane Masrour* (aymane.masrour@etu-upsaclay.fr) and *Badi Mohamed* (mohamed.badi@etu-upsaclay.fr). 
+*Mohamed Badi* (mohamed.badi@etu-upsaclay.fr) and *Aymane Masrour* (aymane.masrour@etu-upsaclay.fr). 
 
 
 ## Contributing
 
 Please feel free to submit a pull request if you'd like to add improvements or fix issues. All contributions are welcome!
-
-## License
-
-This project is licensed under the MIT License.
-
-
 
 
 
