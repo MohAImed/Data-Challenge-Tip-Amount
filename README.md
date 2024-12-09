@@ -65,6 +65,10 @@ The table below summarizes the performance of each model based on weighted metri
 | XGBoost Regressor                    |0.7085    |
 | CatBoost Regressor                   |0.7087    |
 
+## Final standings
+
+!(Final_Standings)[image/Final_Standings.png]
+
 ## Authors
 
 *Mohamed Badi* (mohamed.badi@etu-upsaclay.fr) and *Aymane Masrour* (aymane.masrour@etu-upsaclay.fr). 
