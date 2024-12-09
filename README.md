@@ -67,7 +67,7 @@ The table below summarizes the performance of each model based on weighted metri
 
 ## Final standings
 
-!(Final_Standings)[image/Final_Standings.png]
+![Final_Standings](image/Final_Standings.png)
 
 ## Authors
 
